@@ -1,2 +1,1 @@
-sudo apt update
-sudo apt install libx11-dev
+More info about this project can be found at https://medium.com/@binitabharati/graphics-programming-in-c-with-x11-api-b95de0763da4
